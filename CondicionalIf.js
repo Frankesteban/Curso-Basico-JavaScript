@@ -5,12 +5,12 @@ if(True){
 
 var edad = 18;
 if(edad === 18){
-    console.log("Puedes Votar, sra tu primera votacion");
+    console.log("Puedes Votar, sera tu primera votacion");
 } else if(edad >18){
     console.log("Puedes Votar de nuevo");
 } else {
     console.log("aun no puedes votar");
-}
+} 
 
 // Usar if/else en una misma linea
 
